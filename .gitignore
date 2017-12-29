@@ -1,0 +1,5 @@
+.composer
+.vagrant
+vendor/*
+.DS_Store
+provision/*
