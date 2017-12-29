@@ -24,3 +24,4 @@ new PHP project. Thanks to wonderful Ansible roles created by [@geerlingguy](htt
 it is super easy, but still requires some work. To save time for myself and
 my colleagues, I decided to publish my current version for everyone to see
 (and update).
+
